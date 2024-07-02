@@ -1,6 +1,4 @@
-## Project: One Zero Tasks
-
-This project consists of several components:
+## One Zero Tasks
 
 * **Python Application:**  [Python Application](./Flask-app/README.md) explains how to interact with the python application.
 * **SQL:**  [SQL Queries](./sql-queries/queries.sql) includes the sql queries.
